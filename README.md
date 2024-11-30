@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <strong>Saiprasad</strong>, <strong>Backend Engineer</strong> currently working at Capita, Pune. My working Tech Stack is Scala|Akka|Play Framework.
+- 👋 Hi, I’m <strong>Saiprasad</strong>, <strong>Backend Engineer</strong> currently working at Leonteq. My working Tech Stack is Scala|Akka|Play Framework|Cats.
 - 📫 Lets get in touch <a href="https://www.linkedin.com/in/saiprasad-vyawahare-88a713169/">LinkedIn</a>
 
 <!---
