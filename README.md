@@ -1,4 +1,6 @@
-- 👋 Hi, I’m <strong>Saiprasad</strong>, <strong>Backend Engineer</strong> currently working at Leonteq. My working Tech Stack is Scala|Akka|Play Framework|Cats.
+- 👋 Hi, I’m <strong>Saiprasad</strong>,
+- <strong>Scala Backend Engineer</strong> currently working at Leonteq | 7+ years of experience.
+- My working Tech Stack includes Scala|Akka|Play Framework|Cats|FP.
 - 📫 Lets get in touch <a href="https://www.linkedin.com/in/saiprasad-vyawahare-88a713169/">LinkedIn</a>
 
 <!---
